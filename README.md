@@ -18,7 +18,7 @@
 <h2 align="center">About me</h2>
 
 - 👀 Fullname - Lyubishkin Gleb Vladimirovich
-- 🌱 20 y.o.
+- 🌱 21 y.o.
 - 💞️ Country - Russia
 
 
