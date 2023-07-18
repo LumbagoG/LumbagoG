@@ -8,9 +8,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=LumbagoG)](https://github.com/LumbagoG)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LumbagoG&theme=tokyonight)](https://github.com/LumbagoG)
-
-
 <h2 align="center">My codewars</h2>
 
 [![codewars](https://www.codewars.com/users/Lumbago/badges/large)](https://www.codewars.com/users/Lumbago)
