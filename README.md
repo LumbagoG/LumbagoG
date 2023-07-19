@@ -4,6 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+like+JavaScript)](https://git.io/typing-svg)
 
+<h2 align="center">My skills</h2>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+
 <h2 align="center">My achievements</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=LumbagoG)](https://github.com/LumbagoG)
