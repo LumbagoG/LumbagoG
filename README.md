@@ -7,7 +7,7 @@
 <h2 align="center">My skills</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,electron,redux,nextjs,tailwind,vite,webpack,babel,vercel,git,docker,bash" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,electron,redux,nextjs,tailwind,vite,webpack,babel,vercel,git,docker,bash&perline=3" />
   </a>
 </p>
 
