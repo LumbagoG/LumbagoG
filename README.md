@@ -13,7 +13,7 @@
 
 <h2 align="center">My achievements</h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=LumbagoG)](https://github.com/LumbagoG)
+<img src="https://github-profile-trophy.vercel.app/?username=LumbagoG&theme=juicyfresh&no-bg=true" />
 
 <h2 align="center">My codewars</h2>
 
