@@ -17,8 +17,6 @@
 
 [![wakatime](https://wakatime.com/badge/user/018c4875-2325-497b-a3c5-5b2ac901fd7a.svg)](https://wakatime.com/@018c4875-2325-497b-a3c5-5b2ac901fd7a)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LumbagoG&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LumbagoG&show_icons=true&theme=onedark)
 
 <h2 align="center">My codewars</h2>
