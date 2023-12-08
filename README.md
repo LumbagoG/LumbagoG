@@ -15,7 +15,7 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=LumbagoG&theme=juicyfresh&no-bg=true" />
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LumbagoG)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime](https://wakatime.com/badge/user/018c4875-2325-497b-a3c5-5b2ac901fd7a.svg)](https://wakatime.com/@018c4875-2325-497b-a3c5-5b2ac901fd7a)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LumbagoG&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
