@@ -15,6 +15,8 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=LumbagoG&theme=juicyfresh&no-bg=true" />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?LumbagoG=anuraghazra&layout=compact)
+
 <h2 align="center">My codewars</h2>
 
 [![codewars](https://www.codewars.com/users/Lumbago/badges/large)](https://www.codewars.com/users/Lumbago)
