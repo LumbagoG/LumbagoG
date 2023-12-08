@@ -17,6 +17,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?lumbagog=anuraghazra&layout=compact)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LumbagoG&show_icons=true&theme=radical)
+
 <h2 align="center">My codewars</h2>
 
 [![codewars](https://www.codewars.com/users/Lumbago/badges/large)](https://www.codewars.com/users/Lumbago)
