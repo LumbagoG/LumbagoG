@@ -24,7 +24,7 @@
 <h2 align="center">About me</h2>
 
 - 👀 Fullname - Lyubishkin Gleb Vladimirovich
-- 🌱 21 y.o.
+- 🌱 23 y.o.
 
 
 <!---
