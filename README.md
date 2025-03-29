@@ -17,9 +17,9 @@
 
 [![wakatime](https://wakatime.com/badge/user/018c4875-2325-497b-a3c5-5b2ac901fd7a.svg)](https://wakatime.com/@018c4875-2325-497b-a3c5-5b2ac901fd7a)
 
-<h2 align="center">My codewars</h2>
+<h2 align="center">My LeetCode</h2>
 
-[![codewars](https://www.codewars.com/users/Lumbago/badges/large)](https://www.codewars.com/users/Lumbago)
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
 
 <h2 align="center">About me</h2>
 
