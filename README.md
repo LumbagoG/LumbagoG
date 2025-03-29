@@ -19,7 +19,7 @@
 
 <h2 align="center">My LeetCode</h2>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
+![Leetcode Stats](https://leetcard.jacoblin.cool/LumbagoG)
 
 <h2 align="center">About me</h2>
 
